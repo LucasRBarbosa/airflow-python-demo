@@ -55,7 +55,7 @@ default_args = {
 
 endpoints = ['ca', 'co', 'ny', 'pa']
 date = '{{ ds_nodash }}'
-email_to = ['highenterprise2016@gmail.com']
+email_to = ['seu_email_aqui']
 
 with DAG('covid_data_to_s3',
          start_date=datetime(2019, 1, 1),

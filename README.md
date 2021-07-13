@@ -1,6 +1,6 @@
 # AIRFLOW PYTHON Demo
 
-Seja bem vindo ao código da nossa apresentação Python. O video referente a essa apresentação pode ser encontrada diretamente no canal do youtube you no link da apresentação que também foi salva na raiz desse repositório.<br><br>
+Seja bem vindo ao código da nossa apresentação Python. O video referente a essa apresentação pode ser encontrada diretamente no canal do youtube ou no link da apresentação que também foi salva na raiz desse repositório (Ou aqui embaixo também após a conclusão da apresentação).<br><br>
 
 
 # Requisitos para deploy local do Apache Airflow
